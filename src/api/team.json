@@ -1,0 +1,56 @@
+[
+    {
+        "ename":"Kinda Altarbouch",
+        "eposition":"Co-founder & CEO",
+        "aname":"كنده الطربوش",
+        "aposition":"مؤسس و رئيس تنفيذي",
+        "image":"./assets/img/team/0.jpg",
+        "linkedin":"https://www.linkedin.com/in/kindaaltarbouch/",
+        "facebook":"#",
+        "twitter":"#"
+    },
+    {
+        "ename":"Mohammad Alkhiyami",
+        "eposition":"Software Engineer",
+        "aname":"محمد الخيامي",
+        "aposition":"مهندس برمجيات",
+        "image":"./assets/img/team/1.jpg",
+        "linkedin":"https://www.linkedin.com/in/mohammad-alkhiyami-925128190/",
+        "facebook":"#",
+        "twitter":"#"
+    }
+    ,
+    {
+        "ename":"Omar Mahfouz",
+        "eposition":"Technical Manager",
+        "aname":"عمر محفوظ",
+        "aposition":"مدير تقني",
+        "image":"./assets/img/team/2.jpg",
+        "linkedin":"https://www.linkedin.com/in/omar-mahfouz/",
+        "facebook":"#",
+        "twitter":"#"
+    }  ,
+    {
+        "ename":"Waseem Ayoubi",
+        "eposition":"Lead Software Engineer",
+        "aname":"وسيم أيوبي",
+        "aposition":"مهندس برمجيات رئيسي",
+        "image":"./assets/img/team/3.jpg",
+        "linkedin":"https://www.linkedin.com/in/waseem-ayoubi-a16a91186/",
+        "facebook":"#",
+        "twitter":"#"
+    }
+    ,
+    
+    {
+        "ename":"Khaled kabtol",
+        "eposition":"Software Engineer",
+        "aname":"خالد كبتول",
+        "aposition":"مهندس برمجيات",
+        "image":"./assets/img/team/4.jpg",
+        "linkedin":"https://www.linkedin.com/in/khaled-kabtol-4900211a0/",
+        "facebook":"#",
+        "twitter":"#"
+    }
+
+]

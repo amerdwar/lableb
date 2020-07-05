@@ -1,0 +1,30 @@
+[
+    {
+        "id":"0",
+        "link":"https://www.popsci.ae/",
+        "image":"./assets/img/customers/popsci_trans.png"
+    },
+    {
+        "id":"1",
+        "link":"https://technologyreview.ae/",
+        "image":"./assets/img/customers/mit_trans.png"
+    },
+    {
+        "id":"2",
+        "link":"https://hbrarabic.com/",
+        "image":"./assets/img/customers/grayscale_trans.png"
+    }
+    ,
+    {
+        "id":"0",
+        "link":"https://aliqtisadi.com/",
+        "image":"https://solutions.lableb.com/wp-content/uploads/2018/12/grayscale_image.png"
+    }
+    ,
+    {
+        "id":"0",
+        "link":"https://wiki.hsoub.com",
+        "image":"./assets/img/customers/hsoub_trams.png"
+    }
+
+]

@@ -1,0 +1,48 @@
+[{
+    "name":"Custom Search",
+    "image":"./assets/img/svg/features/search.svg",
+    "link":"#",
+    "text":"Surface the content that is most relevant to your users, based on your own criteria"
+    },
+    {"name":"Autocomplete",
+    "image":"./assets/img/svg/features/delivery.svg",
+    "link":"#",
+    "text":"Guide users to the content of answers that matter most with real-time resuults right as they type"
+    },
+    
+    {"name":"Spell Correction",
+    "image":"./assets/img/svg/features/magic-wand.svg",
+    "link":"#",
+    "text":"Spell correction (Did you mean?) is automatically triggered when a searches for misspelled words."
+    },
+    
+    {"name":"Filters,Snippet & Highlighting",
+    "image":"./assets/img/svg/features/target.svg",
+    "link":"#",
+    "text":"Let your users sort and filter through the seearch results following a set of tags derived from your won content"
+    },
+    {"name":"Search Analytics",
+    "image":"./assets/img/svg/features/statistics.svg",
+    "link":"#",
+    "text":"Real-time, actionable insights about your user's search habits and activity"
+    },
+    {"name":"Faster instant search",
+    "image":"./assets/img/svg/features/shoes.svg",
+    "link":"#",
+    "text":"From small projects to millions of documents.Fast,hosted and scalable search is our core focus"
+    },
+    {"name":"Privacy & Security",
+    "image":"./assets/img/svg/features/fingerprint-scan.svg",
+    "link":"#",
+    "text":"Full encryption and highest industry standards in security, data privacy and data protection"
+    },
+    {"name":"Multi-lingual",
+    "image":"./assets/img/svg/features/world.svg",
+    "link":"#",
+    "text":"Lableb processes Arabic and English data by default.More language are supported based on your needs"
+    }
+    
+    
+    
+    
+    ]
